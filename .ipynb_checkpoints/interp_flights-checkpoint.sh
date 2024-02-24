@@ -1,0 +1,3 @@
+python3 Flights_Meteo_Interpolator.py Jan_engines
+python3 Flights_Meteo_Interpolator.py Feb_engines
+python3 Flights_Meteo_Interpolator.py Mar_engines
